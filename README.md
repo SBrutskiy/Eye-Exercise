@@ -1,6 +1,6 @@
 # Eye Exercise
 
-## This project showcases my skills with css and some javascript, the eye will follow your cursor as you move it around
+## This project showcases my skills with css and some javascript, the eye will follow your cursor as you move it around, there isnt a big future to this project besides reusing this code in other websites to add a nice animation.
 
 # how use the code:
 
